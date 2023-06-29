@@ -1,9 +1,9 @@
 # Blog Website
 Light Mode
-![Project Screenshot](Blog-Website/Screenshot/light-mode.png)
+![Project Screenshot](Screenshot/light-mode.png)
 <br>
 Dark Mode
-![Project Screenshot](Blog-Website/Screenshot/dark-mode.png)
+![Project Screenshot](Screenshot/dark-mode.png)
 
 ## About
 
